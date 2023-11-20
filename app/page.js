@@ -4,7 +4,7 @@ import Link from "next/link";
 export default function Home() {
   return (
     <div>
-      <div className="flex flex-col md:flex-row items-center mt-4 md:mt-0 justify-between my-10 md:p-8">
+      <div className="flex flex-col text-white md:flex-row items-center mt-4 md:mt-0 justify-between my-10 md:p-8">
         <div className="md:w-2/4 flex items-center flex-col ">
           <div className="md:hidden block md:w-2/4">
             <img src="logo.png" />
@@ -27,7 +27,7 @@ export default function Home() {
         </div>
       </div>
       <div className="p-4">
-        <p className="text-xl">
+        <p className="text-xl text-white">
           Hey dear NEWAGE GROUP we are going to start something new for you
           all,which will be adding glory to your success and make you impeccable
           ⏱👩‍🎓👨‍🎓🎖

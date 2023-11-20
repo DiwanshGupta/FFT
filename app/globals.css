@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
+/* :root {
   --foreground-rgb: 255, 255, 255;
   --background-start-rgb: 245, 222, 179;
   --background-end-rgb: 245, 222, 179;
@@ -24,7 +24,7 @@ body {
       rgb(var(--background-end-rgb))
     )
     rgb(var(--background-start-rgb));
-}
+} */
 /* .navbg {
   background: rgb(225, 202, 111);
   background: linear-gradient(
@@ -39,6 +39,24 @@ body {
     rgb(230, 211, 114) 100%
   );
 } */
+::-webkit-scrollbar {
+  width: 0.4rem;
+}
+::-webkit-scrollbar-track {
+  /* background-color: rgba(70, 43, 70, 0.785); */
+  background-color: rgba(67, 50, 3, 0.628);
+}
+::-webkit-scrollbar-thumb {
+  background-color: rgb(240, 240, 5);
+  /* border: 2px solid transparent; */
+  border-radius: 15px;
+  background-clip: content-box;
+}
+.bgimg {
+  background-image: url(../public/Untitled-1.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+}
 .bgtext {
   background: linear-gradient(
     to right,
