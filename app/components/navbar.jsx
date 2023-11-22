@@ -1,6 +1,7 @@
 "use client";
 import React, { useState } from "react";
 import Link from "next/link";
+import Image from "next/image";
 
 function Navbar() {
   const [isNavbarOpen, setIsNavbarOpen] = useState(false);
@@ -13,8 +14,15 @@ function Navbar() {
     <>
       <nav className="navbg   w-full   top-0 left-0    p-3">
         <div className="w-full flex flex-wrap items-center justify-between mx-auto md:p-3 ">
-          <span className="self-center text-5xl font-bold whitespace-nowrap  bg-gradient-to-r from-purple-400 via-blue-500 to-green-400 text-transparent bg-clip-text animate-gradient">
-            FFT
+          <span className=" ">
+            <Link href="/">
+              <Image
+                src="/navlogo.png"
+                width={80}
+                height={80}
+                className=" rounded-full"
+              />
+            </Link>
           </span>
           <button
             data-collapse-toggle="navbar-sticky"
@@ -66,7 +74,7 @@ function Navbar() {
               <div className="">
                 <Link
                   href="/"
-                  className="block py-2 pl-3 pr-4 font-bold text-2xl  bg-gradient-to-r from-purple-400 via-blue-500 to-green-400 text-transparent bg-clip-text animate-gradient rounded md:bg-transparent "
+                  className="block py-2 pl-3 pr-4 font-bold text-2xl text-gray-700 hover:text-gray-500 rounded md:bg-transparent "
                   aria-current="page"
                 >
                   Home
@@ -75,7 +83,7 @@ function Navbar() {
               <div>
                 <Link
                   href="/courses"
-                  className="block py-2 pl-3 pr-4 font-bold text-2xl   bg-gradient-to-r from-purple-400 via-blue-500 to-green-400 text-transparent bg-clip-text animate-gradient  rounded "
+                  className="block py-2 pl-3 pr-4 font-bold text-2xl  text-gray-700 hover:text-gray-500  rounded "
                 >
                   Courses
                 </Link>
@@ -84,7 +92,7 @@ function Navbar() {
               <div>
                 <Link
                   href="#contact"
-                  className="block py-2 pl-3 pr-4 font-bold text-2xl  bg-gradient-to-r from-purple-400 via-blue-500 to-green-400 text-transparent bg-clip-text animate-gradient  rounded "
+                  className="block py-2 pl-3 pr-4 font-bold text-2xl text-gray-700 hover:text-gray-500 rounded "
                 >
                   Contact
                 </Link>
