@@ -12,11 +12,12 @@ function Navbar() {
 
   return (
     <>
-      <nav className="navbg   w-full   top-0 left-0    p-3">
+      <nav className="navbg   w-full   top-0 left-0 fixed  md:p-0 p-2">
         <div className="w-full flex flex-wrap items-center justify-between mx-auto md:p-3 ">
           <span className=" ">
             <Link href="/">
               <Image
+                alt="navlogo "
                 src="/navlogo.png"
                 width={80}
                 height={80}
@@ -65,7 +66,7 @@ function Navbar() {
             )}
           </button>
           <div
-            className={`items-center justify-between w-full md:flex md:w-auto md:order-1 ${
+            className={`items-center justify-between  rounded-lg w-full md:flex md:w-auto md:order-1 ${
               isNavbarOpen ? "block" : "hidden"
             }`}
             id="navbar-sticky"
@@ -74,7 +75,7 @@ function Navbar() {
               <div className="">
                 <Link
                   href="/"
-                  className="block py-2 pl-3 pr-4 font-bold text-2xl text-gray-700 hover:text-gray-500 rounded md:bg-transparent "
+                  className="block py-2  pl-3 pr-4 font-bold text-2xl text-gray-700 hover:text-gray-500 rounded md:bg-transparent "
                   aria-current="page"
                 >
                   Home

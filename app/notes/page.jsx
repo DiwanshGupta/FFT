@@ -32,7 +32,7 @@ const Notes = () => {
   }, []);
 
   return (
-    <div className="p-10 text-white">
+    <div className="p-10 mt-20 text-white">
       <div className="text-2xl font-semibold">Notes</div>
       <span className="text-3xl font-bold">Bachelor OF Technology</span>
       <div className="flex flex-row justify-between">

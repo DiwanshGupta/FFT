@@ -17,7 +17,7 @@ export default function RootLayout({ children }) {
         <div>
           <Navbar />
         </div>
-        <div className=" ">{children}</div>
+        <div className="my-10 md:p-8 mt-4  ">{children}</div>
         <div>
           <Footer />
         </div>

@@ -1,4 +1,5 @@
 "use client";
+import Sidebar from "@/app/components/sidebar";
 import React, { useState, useEffect } from "react";
 
 const SubjectNotes = ({ params }) => {
@@ -38,32 +39,33 @@ const SubjectNotes = ({ params }) => {
   }
 
   return (
-    <div className="p-1 mb-3">
-      <h1 className="items-center flex justify-center font-bold text-2xl md:text-3xl">
+    <div className="p-1 mb-3 mt-28 md:mt-20 py-10">
+      <h1 className="items-center flex justify-center font-bold md:font-semibold text-3xl md:text-4xl">
         {subjectInfo.Subject}
       </h1>
-      <div className="flex justify-between flex-col md:flex-row">
-        {/* 
-
-      <h2>Notes</h2>
-      <h2>Aakash</h2>
-      {subjectInfo.Notes.units1.notes1}
-
-      <a href={subjectInfo.Aakash} target="_blank" rel="noopener noreferrer">
-        Aakash Link
-      </a> */}
-
-        <div className="md:flex md:flex-col hidden ">
-          <span>Notes</span>
-          <span>Aakash</span>
-          <span>Youtube Lecture</span>
+      <div className="flex justify-between flex-col  md:flex-row ">
+        <div className="flex flex-col md:flex-row md:w-2/4 my-11 py-6">
+          <div className="md:flex md:flex-col  ">
+            <Sidebar />
+          </div>
+          <div>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde non
+            officiis magnam velit quibusdam corporis, temporibus alias explicabo
+            quas repudiandae deleniti deserunt hic voluptate aut! Delectus
+            facere magnam aliquid quaerat.
+          </div>
         </div>
         <div
           id="style-1"
-          className="md:w-2/6 overflow-auto h-screen p-5 mx-4 rounded-2xl bg-yellow-400  text-white font-semibold bg-opacity-25"
+          className="md:w-2/6 overflow-auto slabh p-5 mx-4 rounded-2xl bg-yellow-400  text-white font-semibold bg-opacity-25"
         >
           <h2 className="justify-center flex text-3xl ">Syllabus</h2>
-          <p>{subjectInfo.syllabus}</p>
+          {Object.keys(subjectInfo.syllabus).map((unit, index) => (
+            <div key={index}>
+              <p className="text-2xl my-3 font-bold">{`Units ${index + 1}`}</p>
+              <p>{subjectInfo.syllabus[unit]}</p>
+            </div>
+          ))}
         </div>
       </div>
     </div>
