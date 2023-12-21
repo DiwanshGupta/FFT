@@ -18,7 +18,7 @@ function Navbar() {
             <Link href="/">
               <Image
                 alt="navlogo "
-                src="/navlogo.png"
+                src="/navlogo.jpg"
                 width={80}
                 height={80}
                 className=" rounded-full"

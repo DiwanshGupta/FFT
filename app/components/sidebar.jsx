@@ -26,7 +26,7 @@ const NavData = [
   },
   {
     name: "PYQ's",
-    path: "/",
+    path: "/pyq",
     icon: <FontAwesomeIcon icon={faFile} />,
   },
 ];
@@ -49,7 +49,7 @@ const Sidebar = () => {
             key={index}
           >
             <div>{link.icon}</div>{" "}
-            <div className="  items-center hidden p-1 md:block ">
+            <div className="  items-center  p-1  ">
               <div className="text-[12px] leading-none font-semibold capitalize text-blue-900">
                 {link.name}
               </div>
