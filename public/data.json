@@ -18,30 +18,98 @@
       },
       "Aakash": "https://drive.google.com/file/d/1vyn7EdId6lw8nyvCIj3psMW9P6jZQY9Z/view",
       "syllabus": {
-        "units1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. A quam nobis amet sunt repudiandae quos ipsum eveniet sint. Maiores et molestias tempora enim, non quos ea consequuntur dolor saepe ullam?",
-        "units2": "vhj",
-        "units3": "locghfh",
-        "units4": "sdfsdfd"
+        "units1": "Fuels: Classification and Characteristics of fuels, Calorific values, Comparison between solid, liquid\nand gaseous fuels, calorific values of fuels, determination of calorific values using Bomb\ncalorimeter, Boy’s calorimeter, theoretical calculation of calorific value using Dulong formula and\nnumericals of Calorific values. Types of fuels: - Solid: Coal, proximate and ultimate analysis of coal\nand numericals, carbonisation of coal in Otto-Hoffman oven with recovery of by-products,\nmetallurgical coke; Liquid: Petroleum products --- mining and refining of petroleum,knocking, numericals based on combustion of fuels (excluding flue gas analysis).",
+        "units2": "Engineering Materials: Portland Cement: manufacturing by Rotary Kiln, role of gypsum, chemistry of\nsetting and hardening of cement. Glass: manufacturing by tank furnace, significance of annealing,\ntypes and properties of soft glass, hard glass, borosilicate glass. Polymers: Basic concepts &\nterminology, classification and functionality of polymers, Properties and applications of (excluding synthesis): polyethylene, polymethacrylate, nylon, bakelite, polycarbonate, conducting polymers,\nliquid crystalline polymers, biodegradable polymers.",
+        "units3": "Water: Introduction, water quality standards, physical, chemical and biological characteristics;\nhardness of water, disadvantages of hardness, determination of hardness (EDTA method) and related\nnumerical questions, Alkalinity of water and related numericals. Boiler problems with hard water\nand their prevention: Scale and sludge formation, boiler corrosion, caustic embrittlement, priming\nand foaming, boiler water treatment –internal or in-situ: carbonate and phosphate conditioning,\ncolloidal and Calgon conditioning; external treatment: (a) Lime soda process and related numericals\n(b) Zeolite process and numericals (c) Ion-exchange process. Desalination, Reverse Osmosis,\nElectrodialysis.",
+        "units4": "Corrosion and its Control: Definition, effects, theory (mechanisms): dry/chemical,\nwet/electrochemical corrosion, Pilling-Bedworth ratio; Types of corrosion: Galvanic corrosion, Soil\ncorrosion, Pitting corrosion, Concentration cell or Differential Aeration corrosion, Stress corrosion;\nPassivity. Factors influencing corrosion; protective measures: galvanization, cathodic protection,\nsacrificial anodic protection; electroplatingCorrosion and its Control: Definition, effects, theory (mechanisms): dry/chemical,\nwet/electrochemical corrosion, Pilling-Bedworth ratio; Types of corrosion: Galvanic corrosion, Soil\ncorrosion, Pitting corrosion, Concentration cell or Differential Aeration corrosion, Stress corrosion;\nPassivity. Factors influencing corrosion; protective measures: galvanization, cathodic protection,\nsacrificial anodic protection; electroplating."
       }
     },
     "code02": {
+      "Subject": "Programming in C",
+      "Notes": {
+        "units1": {
+          "notes1": "https://drive.google.com/file/d/122m7onDrwX6sDw8Byp7VYJxdZzVaHm-Y/view"
+        },
+        "units2": {
+          "notes1": "https://drive.google.com/file/d/12lMsSRozygZkJNPHBg7tjuOp9mnCcDKZ/view"
+        },
+        "units3": {
+          "notes1": "https://drive.google.com/file/d/1J_7VpF2S-QoAWefTZbzTxmhZza-DU6YY/view"
+        },
+        "units4": {
+          "notes1": "https://drive.google.com/file/d/1R7S08MA2HCDtjeoIrDGb0941dNrRdf3y/view"
+        }
+      },
+      "Aakash": "https://drive.google.com/file/d/1vyn7EdId6lw8nyvCIj3psMW9P6jZQY9Z/view",
+      "syllabus": {
+        "units1": "Introduction to Programming: Computer system, components of a computer system, computing\nenvironments, computer languages, creating and running programs, Preprocessor, Compilation\nprocess, role of linker, idea of invocation and execution of a programme. Algorithms:\nRepresentation using flowcharts, pseudocode.\nIntroduction to C language: History of C, basic structure of C programs, process of compiling and\nrunning a C program, C tokens, keywords, identifiers, constants, strings, special symbols, variables,\ndata types, I/O statements. Interconversion of variables.\nOperators and expressions: Operators, arithmetic, relational and logical, assignment operators,\nincrement and decrement operators, bitwise and conditional operators, special operators, operator\nprecedence and associativity, evaluation of expressions, type conversions in expressions.",
+        "units2": "Control structures: Decision statements; if and switch statement; Loop control statements: while,\nfor and do while loops, jump statements, break, continue, goto statements.\nArrays: Concepts, One dimensional array, declaration and initialization of one dimensional arrays,\ntwo dimensional arrays, initialization and accessing, multi-dimensional arrays.\nFunctions: User defined and built-in Functions, storage classes, Parameter passing in functions, call\nby value, Passing arrays to functions: idea of call by reference, Recursion.\nStrings: Arrays of characters, variable length character strings, inputting character strings,\ncharacter library functions, string handling functions.",
+        "units3": "Pointers: Pointer basics, pointer arithmetic, pointers to pointers, generic pointers, array of\npointers, functions returning pointers, Dynamic memory allocation. Pointers to functions. Pointers\nand Strings\nStructures and unions: Structure definition, initialization, accessing structures, nested structures,\narrays of structures, structures and functions, self-referential structures, unions, typedef,\nenumerations.\nFile handling: command line arguments, File modes, basic file operations read, write and append.\nScope and life of variables, multi-file programming.",
+        "units4": "C99 extensions. ‘C’ Standard Libraries: stdio.h, stdlib.h, assert.h, math.h, time.h, ctype.h,\nsetjmp.h, string.h, stdarg.h, unistd.h [3Hrs] [T1, R8]\nBasic Algorithms: Finding Factorial, Fibonacci series, Linear and Binary Searching, Basic Sorting\nAlgorithms- Bubble sort, Insertion sort and Selection sort. Find the square root of a number, array\norder reversal, reversal of a string."
+      }
+    },
+    "code03": {
+      "Subject": "Communications Skills",
+      "Notes": {
+        "units1": {
+          "notes1": "https://drive.google.com/file/d/181Lu3ZMCvw35EvwZpm33ZFPTnHQ43Phu/view"
+        },
+        "units2": {
+          "notes1": "https://drive.google.com/file/d/1jiHTKV63_dRVm_lBvJIbW0X9qOR5k8R_/view"
+        },
+        "units3": {
+          "notes1": "https://drive.google.com/file/d/1pwm4Hlgi9XKWnilhamD8n-MIDpPPjQoO/view"
+        },
+        "units4": {
+          "notes1": "https://drive.google.com/file/d/1U4dRoBZ55U9aYiYaJrcJo5ncokXz6766/view"
+        }
+      },
+      "Aakash": "https://drive.google.com/file/d/1SqqVziSB-lylUOP0F0HtB1TcIczqEtQ4/view",
+      "syllabus": {
+        "units1": "Role and Importance of Communications, Attributes of Communications, Verbal and Non-Verbal\nCommunications, Verbal Communications Skills, Non-verbal Communication Methods, Body\nLanguage, Barriers to Communications, Socio-psychological barriers, Inter-Cultural barriers,\nOvercoming barriers, Communication Mediums: Characterization and Choice of medium, Effective\nCommunication: Correctness, Clarity, Conciseness, Courtesy, Group Communication: Meetings\ntypes, purpose), Group Discussions, Conduct of Meeting, Participant Role, Making Presentations.",
+        "units2": "Spoken and Written English: Attributes of spoken and written communication, Formal & Informal\nCommunication, Variation in between Indian, British and American English. Etiquette and Manners:\nPersonal Behaviour, Greetings, Introductions, Telephone Etiquette. Vocabulary Development:\nDictionaries and Thesaurus, Words often confused, generally used one word substitutions,\nComprehension.",
+        "units3": "Letter writing: Planning the message, Planning Content, Structure, Language use, Layout, enquires\nand replies, asking for or giving quotations, Bargaining letters, Seller’s reply, etc.; Complaints and\nReplies; Memos, Circulars and notices;\nPapragraph Writing, Writing Scientific and Technical Reports: Types, Structure, Drafting and\nDelivering a Speech: Understanding the Environment, Understanding the Audience, Text preparing,\nComposition, Practicing, Commemorative Speeches, Welcome and Introduction, Farewell and Send-\noffs, Condolence.",
+        "units4": "Articles: Indefinite, Definite; Tenses: Present, Past, Future, Perfect (Present, Past and Future),\nTenses in conditional sentences; Active and Passive Voice: Formation, conversion; Direct and\nIndirect Speech, Degrees of Comparison, Common errors, Concepts of Learning and Listening."
+      }
+    },
+    "code04": {
+      "Subject": "Applied Physics – I",
+      "Notes": {
+        "units1": {
+          "notes1": "https://drive.google.com/file/d/1g3dPwskjwpe87OWSb1IOY1ll3ML2wybj/view"
+        },
+        "units2": {
+          "notes1": "https://drive.google.com/file/d/12jgBCyyHK3QywnJPA5Ns4HRR0s4bU9lD/view"
+        },
+        "units3": {
+          "notes1": "https://drive.google.com/file/d/1t5MrcMcjFhGJj7Nrp5eYJefmbjCqSd0y/view"
+        },
+        "units4": {
+          "notes1": "https://drive.google.com/file/d/12jzh5Pk-ufWQnws_qjvwaGOzthZqTojV/view"
+        }
+      },
+      "Aakash": "https://drive.google.com/file/d/1Yc2Kw7EnDXS0ZzA6Xv3xKqk8v3-6aomE/view",
+      "syllabus": {
+        "units1": "Introduction to Thermodynamics: Fundamental Ideas of Thermodynamics, The Continuum Model,\nThe Concept of a “System’”, “State”, “Equilibrium”, “Process’”. Equations of state, Heat, Zeroth\nLaw of Thermodynamics, Work, first and second laws of thermodynamics, entropy.",
+        "units2": "Waves and Oscillations: Wave motion, simple harmonic motion, wave equation, superposition\nprinciple. Introduction to Electromagnetic Theory: Maxwell’s equations. work done by the\nelectromagnetic field, Poynting’s theorem, Momentum, Angular momentum in electromagnetic\nfields, Electromagnetic waves: the wave equation, plane electromagnetic waves, energy carried by\nelectromagnetic waves.",
+        "units3": "Interference: Interference by division of wave front (Young's double slit experiment, Fresnel's\nbiprism), interference by division of amplitude (thin films, Newton's rings, Michelson's\ninterferometer), Coherence and coherent sources.\nDiffraction: Fraunhofer and Fresnel diffraction; Fraunhofer diffraction for Single slit, double slit,\nand N-slit (diffraction grating), Fraunhofer diffraction from a circular aperture, resolving power and\ndispersive power of a grating, Rayleigh criterion, resolving power of optical instruments.\nPolarization: Introduction to polarization, Brewster’s law, Malu's law, Nicol prism, double refraction,\nquarter-wave and half-wave plates, optical activity, specific rotation, Laurent half shade\npolarimeter",
+        "units4": "Theory of relativity: The Michelson-Morley Experiment and the speed of light; Absolute and Inertial\nframes of reference, Galilean transformations, the postulates of the special theory of relativity,\nLorentz transformations, time dilation, length contraction, velocity addition, mass energy\nequivalence. Invariance of Maxwell’s equations under Lorentz Transformation.\nIntroduction to Laser Physics: Introduction, coherence, Einstein A and B coefficients, population\ninversion, basic principle and operation of a laser, the He-Ne laser and the Ruby laser."
+      }
+    },
+    "code05": {
       "Subject": "Manufactoring Process",
       "Notes": {
         "units1": {
           "notes1": "https://drive.google.com/file/d/1RO8s33nvzQAJnGPp1sz6Ir_RLhWLIg4k/view"
         },
         "units2": {
-          "notes1": "https://drive.google.com/file/d/1O8wE5G9zOvV-4olGrD5kIpsGagt6GAB0/view",
-          "notes2": "https://drive.google.com/file/d/1Pf6WmKSgGnBROgJQzdneKTfjgxNhQEvE/view"
+          "notes1": "https://drive.google.com/file/d/1O8wE5G9zOvV-4olGrD5kIpsGagt6GAB0/view"
         },
         "units3": {
-          "notes1": "https://drive.google.com/file/d/1UciUDNbfvbSG0FwcjsBbKgDlvhSgsbpY/view",
-          "notes2": "https://drive.google.com/file/d/1x2VtA5dGAl2KOnxG3APgfJV--6bkdY8E/view"
+          "notes1": "https://drive.google.com/file/d/1UciUDNbfvbSG0FwcjsBbKgDlvhSgsbpY/view"
         },
         "units4": {
-          "notes1": "https://drive.google.com/file/d/113zNbj2VeMGUkLma0pcaJkJG7rQcB_yO/view",
-          "notes2": "https://drive.google.com/file/d/1-r0JkPDSQpLsXjcqw_37tONvliOHMUUw/view",
-          "notes3": "https://drive.google.com/file/d/1MRWclxTC_-PkERXTGT7jFaRTnONuWeNu/view"
+          "notes1": "https://drive.google.com/file/d/113zNbj2VeMGUkLma0pcaJkJG7rQcB_yO/view"
         }
       },
       "Aakash": "https://drive.google.com/file/d/1SqqVziSB-lylUOP0F0HtB1TcIczqEtQ4/view",
@@ -49,9 +117,6 @@
         "units1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. A quam nobis amet sunt repudiandae quos ipsum eveniet sint. Maiores et molestias tempora enim, non quos ea consequuntur dolor saepe ullam?",
         "units2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. A quam nobis amet sunt repudiandae quos ipsum eveniet sint. Maiores et molestias tempora enim, non quos ea consequuntur dolor saepe ullam?",
         "units3": "Lorem ipsum dolor sit amet consectetur adipisicing elit. A quam nobis amet sunt repudiandae quos ipsum eveniet sint. Maiores et molestias tempora enim, non quos ea consequuntur dolor saepe ullam?",
-        "units9": "Lorem ipsum dolor sit amet consectetur adipisicing elit. A quam nobis amet sunt repudiandae quos ipsum eveniet sint. Maiores et molestias tempora enim, non quos ea consequuntur dolor saepe ullam?",
-        "units8": "Lorem ipsum dolor sit amet consectetur adipisicing elit. A quam nobis amet sunt repudiandae quos ipsum eveniet sint. Maiores et molestias tempora enim, non quos ea consequuntur dolor saepe ullam?",
-        "units7": "Lorem ipsum dolor sit amet consectetur adipisicing elit. A quam nobis amet sunt repudiandae quos ipsum eveniet sint. Maiores et molestias tempora enim, non quos ea consequuntur dolor saepe ullam?",
         "units4": "Lorem ipsum dolor sit amet consectetur adipisicing elit. A quam nobis amet sunt repudiandae quos ipsum eveniet sint. Maiores et molestias tempora enim, non quos ea consequuntur dolor saepe ullamLorem ipsum dolor sit amet consectetur adipisicing elit. A quam nobis amet sunt repudiandae quos ipsum eveniet sint. Maiores et molestias tempora enim, non quos ea consequuntur dolor saepe ullam?"
       }
     }
