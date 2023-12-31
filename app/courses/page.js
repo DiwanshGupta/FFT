@@ -64,7 +64,7 @@ const Course = () => {
               <Link href="/notes">
                 {" "}
                 <button className="text-2xl text-white p-1  justify-center bg-white bg-opacity-25 w-44 rounded-lg transition-transform hover:bg-opacity-10 transform  hover:scale-105 hover:z-10">
-                  Let's go
+                  Let&apos;s go
                 </button>
               </Link>
             </span>
