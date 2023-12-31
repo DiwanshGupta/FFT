@@ -92,7 +92,7 @@ function Navbar() {
 
               <div>
                 <Link
-                  href="#contact"
+                  href="/contact"
                   className="block py-2 pl-3 pr-4 font-bold text-2xl text-gray-700 hover:text-gray-500 rounded "
                 >
                   Contact

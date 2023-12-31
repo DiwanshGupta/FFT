@@ -26,7 +26,7 @@ const NavData = [
   },
   {
     name: "PYQ's",
-    path: "/pyq",
+    path: "/",
     icon: <FontAwesomeIcon icon={faFile} />,
   },
 ];
