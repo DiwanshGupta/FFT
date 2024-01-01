@@ -7,6 +7,7 @@ import {
 import {
   faLinkedin,
   faWhatsapp,
+  faInstagram,
   faYoutube,
 } from "@fortawesome/free-brands-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
@@ -15,9 +16,9 @@ import { useRouter } from "next/navigation";
 
 const NavData = [
   {
-    name: "NOTES",
-    path: "#",
-    icon: <FontAwesomeIcon icon={faStickyNote} />,
+    name: "Whatsapp",
+    path: "https://chat.whatsapp.com/EA58VQDqZACD1mDCwH5Ikz",
+    icon: <FontAwesomeIcon icon={faWhatsapp} />,
   },
   {
     name: "Youtube",
@@ -25,9 +26,9 @@ const NavData = [
     icon: <FontAwesomeIcon icon={faYoutube} />,
   },
   {
-    name: "PYQ's",
-    path: "#",
-    icon: <FontAwesomeIcon icon={faFile} />,
+    name: "Instagram",
+    path: "https://instagram.com/15forteen?igshid=MzRlODBiNWFlZA",
+    icon: <FontAwesomeIcon icon={faInstagram} />,
   },
 ];
 
