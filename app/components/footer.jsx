@@ -37,7 +37,7 @@ const Footer = () => {
 
             <li>
               <Link
-                href="https://chat.whatsapp.com/BaKiWbk4dWX7JhmXqJJEfr"
+                href="https://chat.whatsapp.com/EA58VQDqZACD1mDCwH5Ikz"
                 className="hover:underline "
               >
                 <div className="text-3xl mx-5 w-6">
