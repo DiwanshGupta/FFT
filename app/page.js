@@ -61,7 +61,7 @@ export default function Home() {
           <div className="flex items-center flex-col justify-center text-2xl font-bold">
             <div>FFT - Youtube Tutorial</div>
             <div className="flex justify-between -z-10">
-              <div className="mx-2"> Cick below</div>
+              <div className="mx-2"> Click below</div>
               <div className="arrow bounce">
                 <FontAwesomeIcon icon={faArrowAltCircleDown} />
               </div>
