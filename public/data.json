@@ -100,24 +100,30 @@
       "Subject": "Manufactoring Process",
       "Notes": {
         "units1": {
-          "notes1": "https://drive.google.com/file/d/1RO8s33nvzQAJnGPp1sz6Ir_RLhWLIg4k/view"
-        },
-        "units2": {
-          "notes1": "https://drive.google.com/file/d/1O8wE5G9zOvV-4olGrD5kIpsGagt6GAB0/view"
-        },
-        "units3": {
-          "notes1": "https://drive.google.com/file/d/1UciUDNbfvbSG0FwcjsBbKgDlvhSgsbpY/view"
-        },
-        "units4": {
-          "notes1": "https://drive.google.com/file/d/113zNbj2VeMGUkLma0pcaJkJG7rQcB_yO/view"
+          "notes1": "https://drive.google.com/file/d/1jmBoTPHCnnz8N7REnuuDUfoOCcQt8zh2/view"
         }
       },
-      "Aakash": "https://drive.google.com/file/d/1SqqVziSB-lylUOP0F0HtB1TcIczqEtQ4/view",
+      "Aakash": "https://drive.google.com/file/d/1Eh3F64_-jAHdhuXLyAjce5rJGJo0jrxx/view",
       "syllabus": {
-        "units1": "Lorem ipsum dolor sit amet consectetur adipisicing elit. A quam nobis amet sunt repudiandae quos ipsum eveniet sint. Maiores et molestias tempora enim, non quos ea consequuntur dolor saepe ullam?",
-        "units2": "Lorem ipsum dolor sit amet consectetur adipisicing elit. A quam nobis amet sunt repudiandae quos ipsum eveniet sint. Maiores et molestias tempora enim, non quos ea consequuntur dolor saepe ullam?",
-        "units3": "Lorem ipsum dolor sit amet consectetur adipisicing elit. A quam nobis amet sunt repudiandae quos ipsum eveniet sint. Maiores et molestias tempora enim, non quos ea consequuntur dolor saepe ullam?",
-        "units4": "Lorem ipsum dolor sit amet consectetur adipisicing elit. A quam nobis amet sunt repudiandae quos ipsum eveniet sint. Maiores et molestias tempora enim, non quos ea consequuntur dolor saepe ullamLorem ipsum dolor sit amet consectetur adipisicing elit. A quam nobis amet sunt repudiandae quos ipsum eveniet sint. Maiores et molestias tempora enim, non quos ea consequuntur dolor saepe ullam?"
+        "units1": "Definition of manufacturing, Importance of manufacturing towards technological and social-economic development, Classification of manufacturing processes, Properties of materials. Metal Casting Processes: Sand casting, Sand moulds, Type of patterns, Pattern materials, Pattern allowances, Types of Moulding sand and their Properties, Core making, Elements of gating system. Description and operation of cupola. Working principle of Special casting processes - Shell casting, Pressure die casting, Centrifugal casting. Casting defects.",
+        "units2": "Joining Processes: Welding principles, classification of welding processes, Fusion welding, Gas welding, Equipments used, Filler and Flux materials. Electric arc welding, Gas metal arc welding, Submerged arc welding, Electro slag welding, TIG and MIG welding process, resistance welding, welding defects.",
+        "units3": "Deformation Processes: Hot working and cold working of metals, Forging processes, Open and closed die forging process. Typical forging operations, Rolling of metals, Principle of rod and wire drawing, Tube drawing. Principle of Extrusion, Types of Extrusion, Hot and Cold extrusion. Sheet metal characteristics -Typical shearing operations, bending and drawing operations, Stretch forming operations, Metal spinning",
+        "units4": "Powder Metallurgy: Introduction of powder metallurgy process, powder production, blending, compaction, sintering Manufacturing Of Plastic Components: Types of plastics, Characteristics of the forming and shaping processes, Moulding of Thermoplastics, Injection moulding, Blow moulding, Rotational moulding, Film blowing, Extrusion, Thermoforming. Moulding of thermosets- Compression moulding, Transfer moulding, Bonding of Thermoplastics."
+      }
+    },
+    "code06": {
+      "Subject": "Electrical Science",
+      "Notes": {
+        "units1": {
+          "notes1": "https://drive.google.com/file/d/1u8KeQc3uuf_5wQdzJGwjnPFH91DhlFaL/view"
+        }
+      },
+      "Aakash": "https://drive.google.com/file/d/1xzyxjfWg5zq1Zo-IOpEpmpymFhArDatC/view",
+      "syllabus": {
+        "units1": "DC Circuits: Passive circuit components, Basic laws of Electrical Engineering, Temperature Resistance Coefficients. voltage and current sources, Series and parallel circuits, power and energy, Kirchhoff‟s Laws, Nodal & Mesh Analysis, delta-star transformation, superposition theorem, Thevenin‟s theorem, Norton‟s theorem, maximum power transfer theorem. Time domain analysis of first Order RC & LC circuits.",
+        "units2": "AC Circuits: Representation of sinusoidal waveforms, peak and rms values, phasor representation, real power, reactive power, apparent power, power factor. Analysis of single-phase ac circuits consisting of R, L, C, RL, RC, RLC combinations (series and parallel), resonance. Three phase balanced circuits, voltage and current relations in star and delta connections.",
+        "units3": "D. C. Generators & Motors: Principle of operation of Generators & Motors, Speed Control of shunt motors, Flux control, Rheostatic control, voltage control, Speed control of series motors. A. C. Generators & Motors: Principle of operation, Revolving Magnetic field, Squirrel cage and phase wound rotor, Starting of Induction motors, Direct on line and Star Delta starters, Synchronous machines.",
+        "units4": "Transformers: Construction and principle of operation, equivalent circuit, losses in transformers, regulation and efficiency. Auto-transformer and three-phase transformer connections. Measuring Instruments: Electromagnetism, Different Torques in Indicating instruments, Moving Iron Instruments: Construction & Principle, Attraction and Repulsion type; Moving Coil instruments: Permanent Magnet type; Dynamometer type Instruments."
       }
     }
   }
