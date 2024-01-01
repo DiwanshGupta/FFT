@@ -21,7 +21,7 @@ const NavData = [
   },
   {
     name: "Youtube",
-    path: "/",
+    path: "https://www.youtube.com/@15FORTEEN",
     icon: <FontAwesomeIcon icon={faYoutube} />,
   },
   {
