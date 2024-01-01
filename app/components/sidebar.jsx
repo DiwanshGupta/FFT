@@ -16,7 +16,7 @@ import { useRouter } from "next/navigation";
 const NavData = [
   {
     name: "NOTES",
-    path: "/",
+    path: "#",
     icon: <FontAwesomeIcon icon={faStickyNote} />,
   },
   {
@@ -26,7 +26,7 @@ const NavData = [
   },
   {
     name: "PYQ's",
-    path: "/",
+    path: "#",
     icon: <FontAwesomeIcon icon={faFile} />,
   },
 ];
