@@ -178,11 +178,11 @@ body {
 /*
 -- Start BackGround Animation 
 */
-.area {
+/* .area {
   background: -webkit-linear-gradient(to left, #6c72d6, #4e54c8);
   width: 100%;
   color: #00affa;
-}
+} */
 
 .circles {
   position: absolute;
