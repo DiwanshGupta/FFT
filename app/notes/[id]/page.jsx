@@ -100,6 +100,26 @@ const SubjectNotes = ({ params }) => {
                         </div>
                       </div>
                     )}
+                    {subjectInfo["Most-Repeated"] && (
+                      <div id="most-repeated">
+                        <div className="flex flex-col  ">
+                          <div>
+                            <p className="text-2xl my-3 font-bold">
+                              Most-Repeated
+                            </p>
+                          </div>
+                          <div className="flex content-center items-center justify-center ">
+                            <Link href={subjectInfo["Most-Repeated"].pdf}>
+                              <div className="notes-link">
+                                <p className="text-xl font-semibold">
+                                  Most-Repeated
+                                </p>
+                              </div>
+                            </Link>
+                          </div>
+                        </div>
+                      </div>
+                    )}
                   </div>
                 ))}
                 <div id="pyq">
@@ -144,3 +164,4 @@ const SubjectNotes = ({ params }) => {
 };
 
 export default SubjectNotes;
+
