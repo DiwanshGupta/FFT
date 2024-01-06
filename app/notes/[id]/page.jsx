@@ -62,8 +62,10 @@ const SubjectNotes = ({ params }) => {
                 {Object.keys(subjectInfo.Notes).map((unit, index) => (
                   <div key={index} className="flex flex-col md:w-2/3 ">
                     <div>
-                      <p className="text-2xl my-3 font-bold">{`Units ${
-                        index + 1
+                      <p className="text-2xl my-3 font-bold">{`${
+                        Object.keys(subjectInfo.Notes).length === 1
+                          ? "All Units"
+                          : `Unit ${index + 1}`
                       }`}</p>
                     </div>
                     <div className="flex  items-center justify-center ">
