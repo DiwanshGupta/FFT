@@ -66,7 +66,7 @@ const SubjectNotes = ({ params }) => {
                         index + 1
                       }`}</p>
                     </div>
-                    <div className="flex content-center items-center justify-center ">
+                    <div className="flex  items-center justify-center ">
                       {Object.keys(subjectInfo.Notes[unit]).map(
                         (noteKey, noteIndex) => (
                           <Link
@@ -84,6 +84,22 @@ const SubjectNotes = ({ params }) => {
                         )
                       )}
                     </div>
+                    {subjectInfo["Must do"] && (
+                      <div id="must-do">
+                        <div className="flex flex-col  ">
+                          <div>
+                            <p className="text-2xl my-3 font-bold">Must Do</p>
+                          </div>
+                          <div className="flex content-center items-center justify-center ">
+                            <Link href={subjectInfo["Must do"].pdf}>
+                              <div className="notes-link">
+                                <p className="text-xl font-semibold">Must Do</p>
+                              </div>
+                            </Link>
+                          </div>
+                        </div>
+                      </div>
+                    )}
                   </div>
                 ))}
                 <div id="pyq">
