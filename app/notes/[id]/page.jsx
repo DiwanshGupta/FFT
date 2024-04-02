@@ -86,44 +86,56 @@ const SubjectNotes = ({ params }) => {
                         )
                       )}
                     </div>
-                    {subjectInfo["Must do"] && (
-                      <div id="must-do">
-                        <div className="flex flex-col  ">
-                          <div>
-                            <p className="text-2xl my-3 font-bold">Must Do</p>
-                          </div>
-                          <div className="flex content-center items-center justify-center ">
-                            <Link href={subjectInfo["Must do"].pdf}>
-                              <div className="notes-link">
-                                <p className="text-xl font-semibold">Must Do</p>
-                              </div>
-                            </Link>
-                          </div>
-                        </div>
-                      </div>
-                    )}
-                    {subjectInfo["Most-Repeated"] && (
-                      <div id="most-repeated">
-                        <div className="flex flex-col  ">
-                          <div>
-                            <p className="text-2xl my-3 font-bold">
-                              Most-Repeated
-                            </p>
-                          </div>
-                          <div className="flex content-center items-center justify-center ">
-                            <Link href={subjectInfo["Most-Repeated"].pdf}>
-                              <div className="notes-link">
-                                <p className="text-xl font-semibold">
-                                  Most-Repeated
-                                </p>
-                              </div>
-                            </Link>
-                          </div>
-                        </div>
-                      </div>
-                    )}
                   </div>
                 ))}
+                {subjectInfo["Must do"] && (
+                  <div id="must-do">
+                    <div className="flex flex-col  ">
+                      <div>
+                        <p className="text-2xl my-3 font-bold">Must Do</p>
+                      </div>
+                      <div className="flex content-center items-center justify-center ">
+                        <Link href={subjectInfo["Must do"].pdf}>
+                          <div className="notes-link">
+                            <p className="text-xl font-semibold">Must Do</p>
+                          </div>
+                        </Link>
+                      </div>
+                    </div>
+                  </div>
+                )}
+                {subjectInfo["Mid-Sem"] && (
+                  <div id="must-do">
+                    <div className="flex flex-col  ">
+                      <div>
+                        <p className="text-2xl my-3 font-bold">Mid-Sem</p>
+                      </div>
+                      <div className="flex content-center items-center justify-center ">
+                        <Link href={subjectInfo["Mid-Sem"].pdf}>
+                          <div className="notes-link">
+                            <p className="text-xl font-semibold">Mid-Sem</p>
+                          </div>
+                        </Link>
+                      </div>
+                    </div>
+                  </div>
+                )}
+                {subjectInfo["Viva"] && (
+                  <div id="must-do">
+                    <div className="flex flex-col  ">
+                      <div>
+                        <p className="text-2xl my-3 font-bold">Viva</p>
+                      </div>
+                      <div className="flex content-center items-center justify-center ">
+                        <Link href={subjectInfo["Viva"].notes1}>
+                          <div className="notes-link">
+                            <p className="text-xl font-semibold">Viva</p>
+                          </div>
+                        </Link>
+                      </div>
+                    </div>
+                  </div>
+                )}
                 <div id="pyq">
                   <div className="flex flex-col md:w-2/3 ">
                     <div>
@@ -166,4 +178,3 @@ const SubjectNotes = ({ params }) => {
 };
 
 export default SubjectNotes;
-

@@ -4,17 +4,23 @@
       "Subject": "Applied Chemistry",
       "Notes": {
         "units1": {
-          "notes1": "https://drive.google.com/file/d/150MDUmGwOZoEjwyl3TkJNRKEk1pdWovt/view"
+          "notes1": "https://drive.google.com/file/d/1LvpqpkvmQVvC-pK-XXAfErYHYFOMFbh6/view"
         },
         "units2": {
-          "notes1": "https://drive.google.com/file/d/1Hyj0zNDOhF9URA8mshbFP7CGbcB6VHI1/view"
+          "notes1": "https://drive.google.com/file/d/10lWJREUuStdggSxWfLMhQp2RvBU_GGy-/view"
         },
         "units3": {
-          "notes1": "https://drive.google.com/file/d/1oj8woEXQeC81fUv1J_72K91lvqKqraI1/view"
+          "notes1": "https://drive.google.com/file/d/1cV0YxJuV-k1XBBRzmE_n73lX9roPb_Bn/view"
         },
         "units4": {
-          "notes1": "https://drive.google.com/file/d/14tGLstI4JcJnjIKQIHDcNqklUEx3vDc8/view"
+          "notes1": "https://drive.google.com/file/d/15iD-9OSxVpWXpbHMg-2u1wL_KvYiKvmi/view"
         }
+      },
+      "Mid-Sem": {
+        "pdf": "https://drive.google.com/file/d/1QtRhCAKw4NB4zhS6D9ktz159AUrnojPU/view"
+      },
+      "Viva": {
+        "notes1": "https://drive.google.com/file/d/1GLrMmGHWA2T1EYNWP1sCHoPPrDDaDcVJ/view"
       },
       "Aakash": "https://drive.google.com/file/d/1vyn7EdId6lw8nyvCIj3psMW9P6jZQY9Z/view",
       "syllabus": {
@@ -28,19 +34,28 @@
       "Subject": "Programming in C",
       "Notes": {
         "units1": {
-          "notes1": "https://drive.google.com/file/d/122m7onDrwX6sDw8Byp7VYJxdZzVaHm-Y/view"
+          "notes1": "https://drive.google.com/file/d/16qtyJND8VcJx7Y5iPpiUu9GGJ7Hz05JR/view"
         },
         "units2": {
-          "notes1": "https://drive.google.com/file/d/12lMsSRozygZkJNPHBg7tjuOp9mnCcDKZ/view"
+          "notes1": "https://drive.google.com/file/d/1i776eBq2yJsG2yuzzyOEDfxrunIR8vmp/view"
         },
         "units3": {
-          "notes1": "https://drive.google.com/file/d/1J_7VpF2S-QoAWefTZbzTxmhZza-DU6YY/view"
+          "notes1": "https://drive.google.com/file/d/1GIpvNQ3RDZQ8WRD1puWi_QrmyDUygKJy/view"
         },
         "units4": {
-          "notes1": "https://drive.google.com/file/d/1R7S08MA2HCDtjeoIrDGb0941dNrRdf3y/view"
+          "notes1": "https://drive.google.com/file/d/14YXl-ZVNEhzXsrMReQgIc9aiLJc1AKyd/view"
         }
       },
-      "Aakash": "https://drive.google.com/file/d/1vyn7EdId6lw8nyvCIj3psMW9P6jZQY9Z/view",
+      "Must do": {
+        "pdf": "https://drive.google.com/file/d/13TxPhPDomEflcpX9DdHzRropIhsZ8wEX/view"
+      },
+      "Mid-Sem": {
+        "pdf": "https://drive.google.com/file/d/1am__YrIyVn2eehybgYnLsRPXbumFIqRW/view"
+      },
+      "Viva": {
+        "notes1": "https://drive.google.com/file/d/1eQ3uQFuGW97cNjLONU5VDxXVp1VKc3Hj/view"
+      },
+      "Aakash": "https://drive.google.com/file/d/1UBSfRO_HIxKVH_282aB8gc_fLpjUjTlh/view",
       "syllabus": {
         "units1": "Introduction to Programming: Computer system, components of a computer system, computing\nenvironments, computer languages, creating and running programs, Preprocessor, Compilation\nprocess, role of linker, idea of invocation and execution of a programme. Algorithms:\nRepresentation using flowcharts, pseudocode.\nIntroduction to C language: History of C, basic structure of C programs, process of compiling and\nrunning a C program, C tokens, keywords, identifiers, constants, strings, special symbols, variables,\ndata types, I/O statements. Interconversion of variables.\nOperators and expressions: Operators, arithmetic, relational and logical, assignment operators,\nincrement and decrement operators, bitwise and conditional operators, special operators, operator\nprecedence and associativity, evaluation of expressions, type conversions in expressions.",
         "units2": "Control structures: Decision statements; if and switch statement; Loop control statements: while,\nfor and do while loops, jump statements, break, continue, goto statements.\nArrays: Concepts, One dimensional array, declaration and initialization of one dimensional arrays,\ntwo dimensional arrays, initialization and accessing, multi-dimensional arrays.\nFunctions: User defined and built-in Functions, storage classes, Parameter passing in functions, call\nby value, Passing arrays to functions: idea of call by reference, Recursion.\nStrings: Arrays of characters, variable length character strings, inputting character strings,\ncharacter library functions, string handling functions.",
@@ -88,7 +103,17 @@
           "notes1": "https://drive.google.com/file/d/12jzh5Pk-ufWQnws_qjvwaGOzthZqTojV/view"
         }
       },
-      "Aakash": "https://drive.google.com/file/d/1Yc2Kw7EnDXS0ZzA6Xv3xKqk8v3-6aomE/view",
+      "Must do": {
+        "pdf": "https://drive.google.com/file/d/13TxPhPDomEflcpX9DdHzRropIhsZ8wEX/view"
+      },
+      "Mid-Sem": {
+        "pdf": "https://drive.google.com/file/d/1HPftQgRWtc7D_2HPShkcHd_63VFlBAIL/view"
+      },
+      "Viva": {
+        "notes1": "https://drive.google.com/file/d/1P8AuKiygaje724ige4aqaT9_XSUxHaeF/view",
+        "notes2": "https://drive.google.com/file/d/1ugwH9YoYWOeckCqRlQ-pE6cq3QvDygeW/view"
+      },
+      "Aakash": "https://drive.google.com/file/d/17ek5FlJ1M385rn3Kb-63bha-tW35fyOE/view",
       "syllabus": {
         "units1": "Introduction to Thermodynamics: Fundamental Ideas of Thermodynamics, The Continuum Model,\nThe Concept of a “System’”, “State”, “Equilibrium”, “Process’”. Equations of state, Heat, Zeroth\nLaw of Thermodynamics, Work, first and second laws of thermodynamics, entropy.",
         "units2": "Waves and Oscillations: Wave motion, simple harmonic motion, wave equation, superposition\nprinciple. Introduction to Electromagnetic Theory: Maxwell’s equations. work done by the\nelectromagnetic field, Poynting’s theorem, Momentum, Angular momentum in electromagnetic\nfields, Electromagnetic waves: the wave equation, plane electromagnetic waves, energy carried by\nelectromagnetic waves.",
@@ -96,14 +121,47 @@
         "units4": "Theory of relativity: The Michelson-Morley Experiment and the speed of light; Absolute and Inertial\nframes of reference, Galilean transformations, the postulates of the special theory of relativity,\nLorentz transformations, time dilation, length contraction, velocity addition, mass energy\nequivalence. Invariance of Maxwell’s equations under Lorentz Transformation.\nIntroduction to Laser Physics: Introduction, coherence, Einstein A and B coefficients, population\ninversion, basic principle and operation of a laser, the He-Ne laser and the Ruby laser."
       }
     },
+    "code10": {
+      "Subject": "Applied Physics – II",
+      "Notes": {
+        "units1": {
+          "notes1": "https://drive.google.com/file/d/1g3dPwskjwpe87OWSb1IOY1ll3ML2wybj/view"
+        },
+        "units2": {
+          "notes1": "https://drive.google.com/file/d/12jgBCyyHK3QywnJPA5Ns4HRR0s4bU9lD/view"
+        },
+        "units3": {
+          "notes1": "https://drive.google.com/file/d/1STPFItb6wKANlfGkWpJ5yjMPxE9wMcr4/view"
+        },
+        "units4": {
+          "notes1": "https://drive.google.com/file/d/12jzh5Pk-ufWQnws_qjvwaGOzthZqTojV/view"
+        }
+      },
+      "Must do": {
+        "pdf": "https://drive.google.com/file/d/1-OpWjCr7HjwaN5I1P7MoVJf5-51nzjIl/view"
+      },
+      "Mid-Sem": {
+        "pdf": "https://drive.google.com/file/d/1HPftQgRWtc7D_2HPShkcHd_63VFlBAIL/view"
+      },
+      "Viva": {
+        "notes1": "https://drive.google.com/file/d/1P8AuKiygaje724ige4aqaT9_XSUxHaeF/view"
+      },
+      "Aakash": "https://drive.google.com/file/d/17ek5FlJ1M385rn3Kb-63bha-tW35fyOE/view",
+      "syllabus": {
+        "units1": "Quantum Mechanics: Introduction, Wave particle duality, de Broglie waves, the experiment of Davisson and Germer, electron diffraction, physical interpretation of the wave function, properties, the wave packet, group and phase velocity, the uncertainty principle, The Schrödinger wave equation (1D), Eigen values and Eigen functions, expectation values, simple Eigen value problems – solutions of the Schrödinger’s equations for the free particle, the infinite well, the finite well, tunneling effect, the scanning electron microscope, the quantum simple harmonic oscillator (qualitative), zero point energy",
+        "units2": "Quantum Statistics: The need for statistics, statistical distributions: Maxwell Boltzmann, Bose-Einstein and Fermi-Dirac statistics, their comparisons, Fermions and Bosons, Applications of quantum statistics: 1. Molecular speed and energies in an ideal gas, 2. The Black body spectrum, the failure of classical statistics to give the correct explanations – Bose-Einstein statistics applied to the Black Body radiation spectrum; Fermi-Dirac distribution, free electron theory, electronic specific heats, Fermi energy and average energy, Dying stars",
+        "units3": "Crystal Structure: Types of solids, Unit cell, Types of crystals, Translation vectors, Lattice planes, Miller indices, Simple crystal structures, Interplanar spacing, Crystal structure analysis: Bragg’s law, Laue method, Point defects: Schottcky and Frankel defects",
+        "units4": "Band Theory of Solids: Origin of energy bands in solids, motion of electrons in a periodic potential – the Kronig–Penny model (Qualitative), Brillouin zones, effective mass, metals, semi-conductors and insulators and their energy band structures, Extrinsic and Intrinsic semiconductors, doping – Fermi energy for doped and undoped semiconductors, the p-n junction (energy band diagrams with Fermi energy), the unbiased diode, forward and reverse biased diodes – tunnel diodes, zener diode, photo diode its characteristics"
+      }
+    },
     "code05": {
       "Subject": "Manufactoring Process",
       "Notes": {
         "units1": {
-          "notes1": "https://drive.google.com/file/d/1DxJrd3W0YJeYde3qX_xeuO0XPeb1kVk6/view"
+          "notes1": "https://drive.google.com/file/d/1PoofkfuWTfOJk-CrJw2uoUWuFFVnXp2H/view"
         },
         "units2": {
-          "notes1": "https://drive.google.com/file/d/1E4bjAA0TAO2TyLP80qu_LiuVhpOrGxPk/view"
+          "notes1": "https://drive.google.com/file/d/1pUyF6zcoKODUYzO_fF0pPKSvXSoRzQvx/view"
         },
         "units3": {
           "notes1": "https://drive.google.com/file/d/1ENVXBIt1zdYdBAFosWIwGRhMUwAFEIgb/view"
@@ -111,6 +169,12 @@
         "units4": {
           "notes1": "https://drive.google.com/file/d/1EM5DHL9CDrbfHMUCLaoNOwBuZj08fUhb/view"
         }
+      },
+      "Must do": {
+        "pdf": "https://drive.google.com/file/d/13TxPhPDomEflcpX9DdHzRropIhsZ8wEX/view"
+      },
+      "Most-Repeated": {
+        "pdf": "https://drive.google.com/file/d/18oayCpL9I1KC1eID8oYNCVgV_x3PJpP7/view"
       },
       "Aakash": "https://drive.google.com/file/d/1Eh3F64_-jAHdhuXLyAjce5rJGJo0jrxx/view",
       "syllabus": {
@@ -128,10 +192,13 @@
         }
       },
       "Must do": {
-        "pdf": "https://drive.google.com/file/d/1NO7HM67AN6PycR8mEMEFvlt6R4mmNJ-T/view"
+        "pdf": "https://drive.google.com/file/d/1RG7eC9_D6dS80pnh2Oh9UdrNMTyo3SMD/view"
       },
-      "Most-Repeated": {
-        "pdf": "https://drive.google.com/file/d/1aW4XEp693ulL5z1YK0bt7nNNAG4dD0vI/view"
+      "Mid-Sem": {
+        "pdf": "https://drive.google.com/file/d/1kIlhTdBEK6HFhWXPQQmzj5eQ5avSHgYV/view"
+      },
+      "Viva": {
+        "notes1": "https://drive.google.com/file/d/1eQ1GqMNKDKDD3AKDdN8op_wqRSU9tcR7/view"
       },
       "Aakash": "https://drive.google.com/file/d/1xzyxjfWg5zq1Zo-IOpEpmpymFhArDatC/view",
       "syllabus": {
@@ -145,17 +212,23 @@
       "Subject": "Applied Mathematics ",
       "Notes": {
         "units1": {
-          "notes1": "https://drive.google.com/file/d/1nURV8XiJ5HviBIP-fW1L9S4Yt9hziITj/view"
+          "notes1": "https://drive.google.com/file/d/172WfsMXvWPx7_d4_TAajqJ82xS5d_KcF/view"
         },
         "units2": {
-          "notes1": "https://drive.google.com/file/d/1GEqz2J2tOaZ_K3XoQbGnn_18_9XiYyHS/view"
+          "notes1": "https://drive.google.com/file/d/1IEfb4rQJuAAL7ICL8jw0vCBQ1Yv4J-kG/view"
         },
         "units3": {
-          "notes1": "https://drive.google.com/file/d/1hZu00h3KFMYa1Tlr920RBdshSrQFlmbn/view"
+          "notes1": "https://drive.google.com/file/d/13EeTwY3rCtGMaiN8Dc7a-pASCLQgmHPm/view"
         },
         "units4": {
           "notes1": "https://drive.google.com/file/d/1CSeJ_VJU2Jlegs33bEhjes-f7wWsWqUI/view"
         }
+      },
+      "Must do": {
+        "pdf": "https://drive.google.com/file/d/1R7p-0ySDq8135-kO1FcQA3aTHBuZ2fSy/view"
+      },
+      "Mid-Sem": {
+        "pdf": "https://drive.google.com/file/d/1ENXNwnwT1Rh6uHvNXbaUAKq5CDKgLqxl/view"
       },
       "Aakash": "https://drive.google.com/file/d/1oXuWRinT01cIK_Q6tCpg_-MAReXdV_sv/view",
       "syllabus": {
@@ -163,6 +236,91 @@
         "units2": "Ordinary Differential Equations (ODEs): Basic Concepts. Geometric Meaning of y’= ƒ(x, y). Direction Fields, Euler’s Method, Separable ODEs. Exact ODEs. Integrating Factors, Linear ODEs. Bernoulli Equation. Population Dynamics, Orthogonal Trajectories. Homogeneous Linear ODEs with Constant Coefficients. Differential Operators. Modeling of Free Oscillations of a Mass–Spring System, Euler– Cauchy Equations. Wronskian, Nonhomogeneous ODEs, Solution by Variation of Parameters. Power Series Method for solution of ODEs: Legendre’s Equation. Legendre Polynomials, Bessel’s Equation, Bessels’s functions Jn(x) and Yn(x). Gamma Function",
         "units3": "Linear Algebra: Matrices and Determinants, Gauss Elimination, Linear Independence. Rank of a Matrix. Vector Space. Solutions of Linear Systems and concept of Existence, Uniqueness, Determinants. Cramer’s Rule, Gauss–Jordan Elimination. The Matrix Eigenvalue Problem. Determining Eigenvalues and Eigenvectors, Symmetric, Skew-Symmetric, and Orthogonal Matrices. Eigenbases. Diagonalization. Quadratic Forms.Cayley – Hamilton Theorem (without proof)",
         "units4": "Vector Calculus: Vector and Scalar Functions and Their Fields. Derivatives, Curves. Arc Length. Curvature. Torsion, Gradient of a Scalar Field. Directional Derivative, Divergence of a Vector Field, Curl of a Vector Field, Line Integrals, Path Independence of Line Integrals, Double Integrals, Green’s Theorem in the Plane, Surfaces for Surface Integrals, Surface Integrals, Triple Integrals, Stokes Theorem. Divergence Theorem of Gauss."
+      }
+    },
+    "code11": {
+      "Subject": "Applied Mathematics-II",
+      "Notes": {
+        "units1": {
+          "notes1": "https://drive.google.com/file/d/1MFPcr5r_hw-UVWenRaVHyVVCJwfU8FCf/view"
+        },
+        "units2": {
+          "notes1": "https://drive.google.com/file/d/1IEfb4rQJuAAL7ICL8jw0vCBQ1Yv4J-kG/view"
+        },
+        "units3": {
+          "notes1": "https://drive.google.com/file/d/13EeTwY3rCtGMaiN8Dc7a-pASCLQgmHPm/view"
+        },
+        "units4": {
+          "notes1": "https://drive.google.com/file/d/1CSeJ_VJU2Jlegs33bEhjes-f7wWsWqUI/view"
+        }
+      },
+      "Must do": {
+        "pdf": "https://drive.google.com/file/d/1sWucuhzSvNNr-8blp0rz4RmBTJx9bH1I/view"
+      },
+      "Mid-Sem": {
+        "pdf": "https://drive.google.com/file/d/1dyoowutqTCGM7HtK1REmNhN3bTTFO8_P/view"
+      },
+      "Aakash": "https://drive.google.com/file/d/1gFk2AU2qVq5auVu17mJ5LQjGSGZDSlUm/view",
+      "syllabus": {
+        "units1": "Complex Analysis – I: Complex Numbers and Their Geometric Representation, Polar Form of Complex Numbers, Powers and Roots, Derivative, Analytic Function, Cauchy–Riemann Equations, Laplace’s Equation, Exponential Function, Trigonometric and Hyperbolic Functions, Euler’s Formula, de’Moivre’s theorem (without proof), Logarithm, General Power, Principal Value, Singularities and Zeros, Infinity, Line Integral in the Complex Plane, Cauchy’s Integral Theorem, Cauchy’s Integral Formula, Derivatives of Analytic Functions, Taylor and Maclaurin Series",
+        "units2": "Complex Analysis – II: Laurent Series, Residue Integration Method, Residue Integration of Real Integrals, Geometry of Analytic Functions: Conformal Mapping, Linear Fractional Transformations (Möbius Transformations), Special Linear Fractional Transformations, Conformal Mapping by Other Functions, Applications: Electrostatic Fields, Use of Conformal Mapping, Modeling, Heat Problems, Fluid Flow, Poisson’s Integral Formula for Potentials",
+        "units3": "Laplace Transforms: Definitions and existence (without proof), properties, First Shifting Theorem (s- Shifting), Transforms of Derivatives and Integrals and ODEs, Unit Step Function (Heaviside Function), Second Shifting Theorem (t-Shifting), Short Impulses, Dirac’s Delta Function, Partial Fractions, Convolution, Integral Equations, Differentiation and Integration of Transforms, Solution of ODEs with Variable Coefficients, Solution of Systems of ODEs, Inverse Laplace transform and its properties, Fourier Analysis: Fourier Series, Arbitrary Period, Even and Odd Functions, Half-Range Expansions, Sturm–Liouville Problems, Fourier Integral, Fourier Cosine and Sine Transforms, Fourier Transform, Usage of Fourier analysis for solution of ODEs, Inverse Fourier transform and its properties",
+        "units4": "Partial Differential Equations (PDEs): Basic Concepts of PDEs, Modeling: Vibrating String, Wave Equation, Solution by Separating Variables, Use of Fourier Series, D’Alembert’s Solution of the Wave Equation, Characteristics, Modeling: Heat Flow from a Body in Space, Heat Equation: Solution by Fourier Series, Steady Two-Dimensional Heat Problems, Dirichlet Problem, Heat Equation: Modeling Very Long Bars, Solution by Fourier Integrals and Transforms, Modeling: Membrane, Two-Dimensional Wave Equation, Rectangular Membrane, Laplacian in Polar Coordinates, Circular Membrane, Laplace’s Equation in Cylindrical and Spherical Coordinates, Potential, Solution of PDEs by Laplace Transforms"
+      }
+    },
+    "code08": {
+      "Subject": "Engineering Mechanics",
+      "Notes": {
+        "units1": {
+          "notes1": "https://drive.google.com/file/d/167AILhkLtRxR17Wzn9bf5tRJQQI7mfM4/view"
+        },
+        "units2": {
+          "notes1": "https://drive.google.com/file/d/12NSiOpfGinSQklvw7XLlGZS-f4odAy6r/view"
+        }
+      },
+      "Must do": {
+        "pdf": "https://drive.google.com/file/d/1R7p-0ySDq8135-kO1FcQA3aTHBuZ2fSy/view"
+      },
+      "Most-Repeated": {
+        "pdf": "https://drive.google.com/file/d/1xZYx1FpQvg7VcgjhpQYX7TAh93PNcHDk/view"
+      },
+      "Viva": {
+        "notes1": "https://drive.google.com/file/d/1ugwH9YoYWOeckCqRlQ-pE6cq3QvDygeW/view"
+      },
+      "Aakash": "https://drive.google.com/file/d/1AZcS1QqfLm3U-Y7e_lTD1YwlumxeIZF9/view",
+      "syllabus": {
+        "units1": "Force System: Introduction, force, principle of transmissibility of force, resultant of a force system, resolution of a force, moment of force about a line, Varignon’s theorem, couple, resolution of force into force and a couple, properties of couple and their application to engineering problems, Equilibrium: Force body diagram, equations of equilibrium, applications to engineering problems, equilibrium of two force and three force members, Distributed Forces: Determination of center of gravity, center of mass and centroid by direct integration and by the method of composite bodies, mass moment of inertia and area moment of inertia by direct integration and composite bodies method, radius of gyration, parallel axis theorem, polar moment of inertial",
+        "units2": "Structure: Plane truss, perfect and imperfect truss, assumption in the truss analysis, analysis of perfect plane trusses by the method of joints, method of section and graphical method, Friction: Static and Kinetic friction, laws of dry friction, co-efficient of friction, angle of friction, angle of repose, cone of friction, frictional lock, friction in flat pivot and collar bearing, friction in flat belts",
+        "units3": "Kinematics of Particles: Rectilinear motion, plane curvilinear motion, rectangular coordinates, normal and tangential coordinates, Kinetics of Particles: Equation of motion, rectilinear motion and curvilinear motion, work-energy equation, conservation of energy, concept of impulse and momentum, conservation of momentum, impact of bodies, co-efficient of restitution, loss of energy during impact",
+        "units4": "Kinematics of Rigid Bodies: Concept of rigid body, types of rigid body motion, absolute motion, introduction to relative velocity, relative acceleration (Corioli’s component excluded) and instantaneous center of zero velocity, Velocity and acceleration, Kinetics of Rigid Bodies: Equation of motion, translatory motion and fixed axis rotation, application of work energy principles to rigid bodies conservation of energy, Beam: Introduction, types of loading, methods for the reactions of a beam, space diagram, types of end supports, beams subjected to couple"
+      }
+    },
+    "code09": {
+      "Subject": "EnvironMent Studies",
+      "Notes": {
+        "units1": {
+          "notes1": "https://drive.google.com/file/d/1ewLwo1QzMU2fbXlHi1cEugFryjJEOkXZ/view"
+        },
+        "units2": {
+          "notes1": "https://drive.google.com/file/d/1nFi2mct2FvL1P9acJFM5wjfP25He_yWU/view"
+        },
+        "units3": {
+          "notes1": "https://drive.google.com/file/d/1STPFItb6wKANlfGkWpJ5yjMPxE9wMcr4/view"
+        },
+        "units4": {
+          "notes1": "https://drive.google.com/file/d/12jzh5Pk-ufWQnws_qjvwaGOzthZqTojV/view"
+        }
+      },
+      "Mid-Sem": {
+        "pdf": "https://drive.google.com/file/d/1zregCUYNlB3bpqtAEbhxjYNdqKMdPudo/view"
+      },
+
+      "Aakash": "https://drive.google.com/file/d/1mGlplTwuihLj_J8KSHFT0-42VclASSq-/view",
+      "syllabus": {
+        "units1": "Fundamentals: The Multidisciplinary nature of environmental studies: Definition, components, scope and importance, need for public awareness, Natural Resources, Ecosystems: Concept, Structure and function of an ecosystem, Types, Functional Components, Different ecosystems, Biogeochemical cycles, Biodiversity: Introduction to biodiversity, biogeographical classification, India as a mega diversity nation, endangered and endemic species of India, threats to biodiversity and conservation of biodiversity, Bioprospecting and Biopiracy",
+        "units2": "Environmental Pollution: (a) Air Pollution: Source, Types, effects on biosphere and Meterology, Air Quality, Control, (b) Water Pollution: Types and Sources, (c) Soil Pollution: Types and Control, (d) Noise Pollution: Effect, Control, (e) Thermal Pollution, (f) Radiation Pollution, (g) Solid waste Management, (h) Pollution Prevention, (i) Disaster Management",
+        "units3": "Social Issues and Environment: Concept of Sustainable Development, Urban problem related to energy, Water Conservation, Wasteland reclamation, Resettlement and Rehabilitation, Climate Change, Nuclear Accidents, Consumerism and Waste Products, Laws related to Environment, Pollution, Forest and Wild life, Environmental Impact Assessment",
+        "units4": "Human Population and Environment: Population Growth, Human Rights, Family WelfareProgrammes, Environment and Human Health, HIV/AIDS, Women and Child Welfare, Role of IT"
       }
     }
   }
